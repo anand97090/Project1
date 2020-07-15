@@ -1,0 +1,49 @@
+.border{
+    
+    padding: 5px;
+    border-width: 5px;
+    border: solid 1px gray;
+}
+
+.Our-advanced-tool {
+    width: 549px;
+    height: 68px;
+    font-family: Barlow;
+    font-size: 24px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #333333;
+  }
+  .Our-advanced-tool-ta {
+    width: 549px;
+    height: 155px;
+    font-family: Barlow;
+    font-size: 21px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.48;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #333333;
+  }
+
+  .Find-Out-More {
+    width: 91px;
+    height: 15px;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #333333;
+    margin-left: 111px;
+    background-color: #ffdf87;
+    padding: 7px;
+  }

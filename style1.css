@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+  .body{
+    background-repeat: no-repeat;
+  background-attachment: absolute;
+  background-position: right 0px top 0px;
+  width: 100%;
+  background-image: url('pic1.png');
+  
+    
+  }
+
+  .logo1{
+    width: 298px;
+    height: 60px;
+    margin-top: 5px;
+    margin-left: 100px;
+    font-family: Barlow;
+    font-size: 21px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.48;
+    letter-spacing: normal;
+    text-align: center;
+    
+  }
+    .Service {
+        width: 80px;
+        height: 31px;
+        margin-top: 65px;
+        margin-left: 220px;
+        font-family: Barlow;
+        font-size: 21px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.48;
+        letter-spacing: normal;
+        text-align: center;
+        color: #132948;
+        text-decoration: none;
+      }
+      .Service:hover {
+        color: #ffdf87;
+      }
+
+      .Aboutus {
+        width: 84px;
+        height: 31px;
+        font-family: Barlow;
+        font-size: 21px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.48;
+        letter-spacing: normal;
+        text-align: center;
+        margin-left: 50px;
+        color: #132948;
+        text-decoration: none;
+        
+      }
+      .Aboutus:hover {
+        color: #ffdf87;
+      }
+
+      .Blog{
+        width: 52px;
+        height: 31px;
+        font-family: Barlow;
+        font-size: 21px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.48;
+        letter-spacing: normal;
+        text-align: center;
+        margin-left: 50px;
+        color: #132948;
+        text-decoration: none;
+        
+      }
+      .Blog:hover {
+        color: #ffdf87;
+      }
+      
+
+      .Career {
+        width: 72px;
+        height: 31px;
+        font-family: Barlow;
+        font-size: 21px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.48;
+        letter-spacing: normal;
+        text-align: center;
+        margin-left: 50px;
+        color: #132948;
+        text-decoration: none;
+      }
+      .Career:hover {
+        color: #ffdf87;
+      }
+
+      .Contact{
+        width: 102px;
+        height: 21px;
+        font-family: Barlow;
+        font-size: 21px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: normal;
+        text-align: center;
+        color: #132948;
+        border-radius: 5px;
+        background-color: #ffdf87;
+        margin-left: 100px;
+        padding: 10px;
+        text-decoration: none;
+        
+      }
+      
+      .we-are-a {
+        width: 541px;
+        height: 225px;
+        font-family: Barlow;
+        font-size: 65px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.15;
+        letter-spacing: normal;
+        color: #333333;
+        margin-left: 111px;
+        margin-top: 190px;
+        position: absolute;
+      }
+      .we-are-a .text-style-1 {
+        font-weight: 600;
+        color: #132948;
+      }
+      
+      

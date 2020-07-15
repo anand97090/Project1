@@ -1,0 +1,60 @@
+.input{
+    width: 359px;
+    height: 41px;  
+  
+  background-color: #ADD8E6;
+  font-family: Barlow;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.48;
+  letter-spacing: normal;
+  padding: 12px;
+  
+  border-radius: 5px;
+  border: solid 1px #ffffff;
+}
+.input-message{
+    border-radius: 5px;
+    border: solid 1px #ffffff;
+    width: 359px;
+    height: 81px;  
+  border-radius: 3px;
+  background-color: #ADD8E6;
+  font-family: Barlow;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.48;
+  letter-spacing: normal;
+  padding: 12px;
+}
+
+.back{
+    background-color: #0abadd;
+    
+}
+
+.back1{
+    background-image: linear-gradient(130deg, #4f8aeb 1%, rgba(79, 138, 235, 0.98) 53%, rgba(79, 138, 235, 0.9) 64%, rgba(79, 138, 235, 0.68) 100%);
+  
+}
+
+.contact-num{
+    font-family: Barlow;
+  font-size: 25px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+#map{
+    margin-left: 450px;
+    
+}

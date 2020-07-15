@@ -1,0 +1,70 @@
+.yellow-line {
+    width: 135px;
+    height: 7px;
+    border-radius: 6.5px;
+    background-color: #ffdf87;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .our-service,.about-us {
+    width: 279px;
+    height: 60px;
+    font-family: Barlow;
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    
+    margin-top: 10px;
+    color: #333333;
+  }
+  .our-advance-tool {
+    width: 1000px;
+    height: 62px;
+    font-family: Barlow;
+    font-size: 21px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.48;
+    letter-spacing: normal;
+    text-align: center;
+    color: #8f8f8f;
+  }
+
+  .pic2 {
+    width: 531px;
+    height: 477px;
+    object-fit: contain;
+    margin-top: 135px;
+    margin-left: 111px;
+  }
+  .Digital-Transformation ,.Blockchain,.DevOps,.Data-Engineering{
+    width: 238px;
+    height: 34px;
+    font-family: Barlow;
+    font-size: 21px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    color: #333333;
+  }
+.float{
+    width:700px;
+    line-height: 20px;
+    
+    float: left;
+}
+  
+.leftfloat{
+width:300px;
+line-height: 20px;
+
+float: left;
+}
+

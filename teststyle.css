@@ -1,0 +1,29 @@
+
+
+.leftfloat{
+    width:300px;
+    line-height: 20px;
+    background-color: blueviolet;
+    float: left;
+}
+
+.rightfloat{
+    width:300px;
+    line-height: 20px;
+    background-color: brown;
+    float: left;
+}
+.float{
+    width:600px;
+    line-height: 20px;
+    
+    float: left;
+}
+.rightfloat1
+{
+    width:600px;
+    line-height: 20px;
+    
+float: right;
+
+}
